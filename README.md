@@ -75,6 +75,9 @@ To run this project, you will need:
    ```
 4. Execute the cells in the notebook to generate pseudo-random numbers.
 
+## **Related Article**
+There is an article discussing this project in detail. You can read it [here](https://medium.com/@fawwazmts/generating-random-numbers-in-computer-cf4233ac46e8).
+
 ## **Contributions**
 
 Feel free to fork this repository and submit pull requests for any improvements or enhancements!
